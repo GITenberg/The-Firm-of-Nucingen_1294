@@ -1,10 +1,13 @@
 _repo: The-Firm-of-Nucingen_1294
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Waring, James
     gutenberg_agent_id: '7076'
     url: http://www.gutenberg.org/2009/agents/7076
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -21,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1294#The-Firm-of-Nucingen
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
 identifiers:
